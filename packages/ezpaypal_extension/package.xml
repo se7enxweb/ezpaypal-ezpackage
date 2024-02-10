@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="6.0.0"
+         development="false"
+         install_type="install">
+  <name>ezpaypal_extension</name>
+  <summary>ezpaypal extension</summary>
+  <description>ezpaypal eZ publish extension</description>
+  <vendor>7x</vendor>
+  <type value="extension" />
+  <ezpublish>
+    <version>6.0stable</version>
+    <named-version>6.0</named-version>
+  </ezpublish>
+  <maintainers>
+    <maintainer>
+      <name>Admin</name>
+      <email>info@se7enx.com</email>
+      <role>lead</role>
+    </maintainer>
+  </maintainers>
+  <packaging>
+    <timestamp>1706173863</timestamp>
+    <host>localhost</host>
+  </packaging>
+  <documents>
+    <document mime-type="text/plain"
+              name="LICENCE" />
+  </documents>
+  <changelog>
+    <entry timestamp="1706173863"
+           person="Admin"
+           email="info@se7enx.com"
+           release="1">
+      <change>Creation of package.</change>
+    </entry>
+  </changelog>
+  <simple-files />
+  <version>
+    <number>1.0</number>
+    <release>1</release>
+  </version>
+  <licence>GPL</licence>
+  <state>stable</state>
+  <dependencies>
+    <provides />
+    <requires />
+    <obsoletes />
+    <conflicts />
+  </dependencies>
+  <install>
+    <item type="ezextension"
+          filename="extension-ezpaypal"
+          sub-directory="ezextension" />
+  </install>
+  <uninstall>
+    <item type="ezextension"
+          filename="extension-ezpaypal"
+          sub-directory="ezextension" />
+  </uninstall>
+</package>
