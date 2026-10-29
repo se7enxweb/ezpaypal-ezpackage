@@ -19,7 +19,7 @@
     </maintainer>
   </maintainers>
   <packaging>
-    <timestamp>1793253501</timestamp>
+    <timestamp>1793304505</timestamp>
     <host>localhost</host>
   </packaging>
   <documents>
@@ -37,7 +37,7 @@
   <simple-files />
   <version>
     <number>1.2</number>
-    <release>3</release>
+    <release>4</release>
   </version>
   <licence>GPL</licence>
   <state>stable</state>

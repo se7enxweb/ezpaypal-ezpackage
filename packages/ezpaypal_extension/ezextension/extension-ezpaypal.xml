@@ -5,21 +5,22 @@
   <file name="LICENSE" md5sum="0636e73ff0215e8d672dc4c32c317bb3"/>
   <file name="README" md5sum="d839d22cb2b90434b9b4718902b01bbf"/>
   <file name="classes" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="ezpaypalchecker.php" path="/classes" md5sum="06445ec26f8a794a7a116a5f4be342cc"/>
-  <file name="ezpaypalgateway.php" path="/classes" md5sum="010f722f92c5cea9f603c01dd2a56eb1"/>
+  <file name="ezpaypalchecker.php" path="/classes" md5sum="a4814eb6117d1b3fee664a676a9f808d"/>
+  <file name="ezpaypalgateway.php" path="/classes" md5sum="81a5a1afb68e74777a6c4f9b2d16bf8f"/>
   <file name="runnable" path="/classes" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="views" path="/classes/runnable" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="paypal" path="/classes/runnable/views" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="notify_url.php" path="/classes/runnable/views/paypal" md5sum="e8aa6d45451f7ea1d298ff8139a6f8cf"/>
+  <file name="notify_url.php" path="/classes/runnable/views/paypal" md5sum="4eeccddb7983940ed91dcec4010aacae"/>
   <file name="composer.json" md5sum="754962c0cd884e54ddd52b118779fcfb"/>
   <file name="doc" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="changelogs" path="/doc" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="CHANGELOG-1.0" path="/doc/changelogs" md5sum="7b904e4e4d48fe44718ed713f6fc590a"/>
-  <file name="ezinfo.php" md5sum="f85ef364afd8a33cd3edaf763d795805"/>
+  <file name="extension.xml" md5sum="f0f3ef1209aa178ba61d7777e72b3684"/>
+  <file name="ezinfo.php" md5sum="9e863fe90d2cda3c2f5e89f46fb920d3"/>
   <file name="modules" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="paypal" path="/modules" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="module.php" path="/modules/paypal" md5sum="80a2ecd874747ee7572d782cacc88e47"/>
-  <file name="notify_url.php" path="/modules/paypal" md5sum="04b343d15aad6f4a79b97860b259e030"/>
+  <file name="module.php" path="/modules/paypal" md5sum="75e7d8679fc6fe5c55c6012049746a2b"/>
+  <file name="notify_url.php" path="/modules/paypal" md5sum="91d4a75a3000828f192245c04f1f4187"/>
   <file name="settings" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="module.ini.append" path="/settings" md5sum="bf20e6b73e717f910d55cede2d9171dd"/>
   <file name="paypal.ini" path="/settings" md5sum="ad2919364dd6bcabccf4c9b17c538062"/>
