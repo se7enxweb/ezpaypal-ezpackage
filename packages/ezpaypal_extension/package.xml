@@ -4,11 +4,11 @@
          install_type="install">
   <name>ezpaypal_extension</name>
   <summary>ezpaypal extension</summary>
-  <description>ezpaypal eZ publish extension</description>
+  <description>This package contains the ezpaypal Exponential extension</description>
   <vendor>7x</vendor>
   <type value="extension" />
   <ezpublish>
-    <version>6.0stable</version>
+    <version>6.0.15</version>
     <named-version>6.0</named-version>
   </ezpublish>
   <maintainers>
@@ -19,7 +19,7 @@
     </maintainer>
   </maintainers>
   <packaging>
-    <timestamp>1706173863</timestamp>
+    <timestamp>1793253501</timestamp>
     <host>localhost</host>
   </packaging>
   <documents>
@@ -36,8 +36,8 @@
   </changelog>
   <simple-files />
   <version>
-    <number>1.0</number>
-    <release>1</release>
+    <number>1.2</number>
+    <release>3</release>
   </version>
   <licence>GPL</licence>
   <state>stable</state>
